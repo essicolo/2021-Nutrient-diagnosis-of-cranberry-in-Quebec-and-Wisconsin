@@ -1,5 +1,7 @@
 *Supplementary material for the manuscript*
 
+Code and data are not yet made available.
+
 # Nutrient-diagnosis-of-cranberry-in-Quebec-and-Wisconsin
 
 Parent, L.E., Jamaly, R., Atucha, A., Parent, E., Workmaster, B.A., Ziadi, N., and Parent, S.-É.
